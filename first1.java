@@ -6,6 +6,7 @@ class Kavin{
 	int m1;
 	Scanner s =new Scanner(System.in);
 	System.out.println("enter the marks : " + m1);
+		System.out.println("Hai kavin");
 	int marks=s.nextint; 
 }
 }
